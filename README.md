@@ -4,6 +4,7 @@ PhotoShop CS5 Scripts
 ## Script Folder
 
 Windows: "Adobe\Photoshop CS6\Presets\Scripts"
+Mac: "/Applications/Adobe Photoshop CS6/Presets/Scripts"
 
 ## Suggestion
 
